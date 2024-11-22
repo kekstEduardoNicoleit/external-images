@@ -1,0 +1,54 @@
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Subject: Professional Email Template
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Email Template</title>
+</head>
+<body>
+    <div style="font-family: Arial, sans-serif; width: 350px; margin: 0; padding: 0;">
+        <!-- Header Section -->
+        <div style="font-size: 14px; font-weight: bold; color: #000000; margin-top: 12px; margin-bottom: 3px; text-align: left;">Gaëtan Hillairet</div>
+        <div style="font-size: 14px; color: #000000; margin-bottom: 12px; text-align: left;">Investor Relations Associate</div>
+        
+        <!-- Main Content Section -->
+        <div style="display: flex; margin-bottom: 15px;">
+            <!-- Address Section -->
+            <div style="flex: 1; text-align: left; margin-right: 20px;">
+                <div style="font-size: 14px; color: #7F7F7F; margin-bottom: 18px; line-height: 1.6;">
+                    70 Pall Mall, St. James<br>
+                    London SW1Y 5JG
+                </div>
+                <a href="https://infranity.com/" target="_blank" style="display: block; margin-top: 12px;">
+                <img src="https://raw.githubusercontent.com/EduardoNicoleit/portfolio/4cee985157a2b1b1ea098737e04c39d87a0439a9/Infranity%20logo.svg" alt="Company Logo" style="width: 130px; height: 30px; margin-top: 30px;">
+            </a>
+            </div>
+            
+            <!-- Divider and Contact Section -->
+            <div style="flex: 1; border-left: 1px solid #D9D9D9; padding-left: 20px; display: flex; align-items: flex-start; flex-direction: column;">
+                <div style="font-size: 14px; color: #7F7F7F; margin-bottom: 12px; line-height: 1.6;">
+                    W. +44 20 38 07 99 57<br>
+                    M. +44 77 62 00 63 87<br>
+                    <a href="http://www.infranity.com" target="_blank" style="color: #7F7F7F; text-decoration: underline;">www.infranity.com</a>
+                </div>
+                <a href="https://www.linkedin.com/company/infranity/" target="_blank" style="display: block; margin-top: 12px;">
+                    <img src="https://raw.githubusercontent.com/EduardoNicoleit/portfolio/4cee985157a2b1b1ea098737e04c39d87a0439a9/Linkedin%20logo.svg" alt="LinkedIn" style="width: 30px; height: 30px;">
+                </a>
+            </div>
+        </div>
+        
+        <!-- Divider Line -->
+        <hr style="border: 0; border-top: 1px solid #D9D9D9; margin-top: 8px; margin-bottom: 8px;">
+
+        <!-- Footer Section -->
+        <div style="font-size: 10px; line-height: 1.8; color: #7F7F7F; text-align: left;">
+            Infranity S.A.S. is a simplified joint-stock company (société par actions simplifiée) incorporated under the laws of France, with its registered office at 6 rue Ménars 75002 Paris France, registered with the Paris Registre du Commerce et des Sociétés under number <a href="#" style="color: #0000EE; text-decoration: underline;">831 266 721</a>. Infranity S.A.S is an asset management company authorized by the French Regulator “Autorité des Marchés Financiers” under number GP-19000030.
+            <br><br>
+            Infranity S.A.S, acting through its UK establishment, with registered office in 70 Pall Mall, London, SW1Y 5ES is an appointed representative of Carne International Financial Services (UK) Limited which is authorised and regulated by the Financial Conduct Authority of the United Kingdom (FRN 823316). Registered in England, No. <a href="#" style="color: #0000EE; text-decoration: underline;">11555138</a>. Registered office: <a href="#" style="color: #0000EE; text-decoration: underline;">2nd Floor 107, Cheapside, London, United Kingdom, EC2V 6DN</a>.
+        </div>
+    </div>
+</body>
+</html>
